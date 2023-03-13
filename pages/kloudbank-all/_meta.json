@@ -1,0 +1,14 @@
+{
+  "index": "Introduction",
+  "-- Blog": {
+    "type": "separator",
+    "title": "Blog"
+  },
+  "blogs": "Overview",
+  "blogs": "Overview",
+  "-- Documents": {
+    "type": "separator",
+    "title": "Documents"
+  },
+  "docs": "Overview"
+}

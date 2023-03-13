@@ -1,0 +1,32 @@
+{
+  "index": {
+    "display": "hidden",
+    "title": "Home"
+  },
+  "sample": {
+    "type": "page",
+    "title": "Sample"
+  },
+  "kloudbank-all": {
+    "type": "page",
+    "title": "Kloudbank (All)"
+  },
+  "kloudbank-blog": {
+    "type": "page",
+    "title": "Kloudbank (Blog only)"
+  },
+  "kloudbank-docs": {
+    "type": "page",
+    "title": "Kloudbank (Docs only)"
+  },
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/shuding_",
+    "newWindow": true
+  }
+}
